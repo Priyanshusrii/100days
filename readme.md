@@ -37,7 +37,7 @@ Every day's folder includes its own source code along with a short description o
 ## How to Use This Repository
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Priyanshusrii/100days.git
    ```
 2. Navigate into any day's folder:
    ```bash
