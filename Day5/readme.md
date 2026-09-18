@@ -17,12 +17,3 @@ A command-line Rock-Paper-Scissors game where the user competes against the comp
 
 
 
-## Sample Usage
-```
-Choose rock, paper, or scissors: rock
-Computer chose: scissors
-You win this round!
-
-Score -> You: 1 | Computer: 0 | Ties: 0
-Play again? (y/n): y
-```
